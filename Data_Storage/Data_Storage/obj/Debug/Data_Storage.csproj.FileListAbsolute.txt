@@ -1,0 +1,6 @@
+C:\Users\Yeeggoo\Music\Data_Storage\Data_Storage\bin\Debug\Data_Storage.exe.config
+C:\Users\Yeeggoo\Music\Data_Storage\Data_Storage\obj\Debug\Data_Storage.csprojResolveAssemblyReference.cache
+C:\Users\Yeeggoo\Music\Data_Storage\Data_Storage\bin\Debug\Data_Storage.exe
+C:\Users\Yeeggoo\Music\Data_Storage\Data_Storage\bin\Debug\Data_Storage.pdb
+C:\Users\Yeeggoo\Music\Data_Storage\Data_Storage\obj\Debug\Data_Storage.exe
+C:\Users\Yeeggoo\Music\Data_Storage\Data_Storage\obj\Debug\Data_Storage.pdb
